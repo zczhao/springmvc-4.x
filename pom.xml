@@ -35,7 +35,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
 
         <junit.version>4.12</junit.version>
-        <tomcat.version>8.5.35</tomcat.version>
+        <tomcat.version>9.0.30</tomcat.version>
         <spring.version>4.3.21.RELEASE</spring.version>
         <jackson.version>2.9.7</jackson.version>
     </properties>
