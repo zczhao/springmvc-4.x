@@ -37,7 +37,7 @@
         <junit.version>4.12</junit.version>
         <tomcat.version>8.5.35</tomcat.version>
         <spring.version>4.3.21.RELEASE</spring.version>
-        <jackson.version>2.9.7</jackson.version>
+        <jackson.version>2.13.4.1</jackson.version>
     </properties>
 
     <dependencyManagement>
